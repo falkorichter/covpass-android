@@ -56,7 +56,7 @@
 	<string name="error_camera_access_button_allow">Allow</string>
 	<string name="validation_check_popup_valid_vaccination_recovery_title">Certificate valid*</string>
 	<string name="validation_check_popup_valid_vaccination_recovery_message">Check the following data against an ID document from the person you are checking.</string>
-	<string name="validation_check_popup_valid_vaccination_date_of_birth">Born on %s</string>
+	<string name="validation_check_popup_valid_vaccination_date_of_birth">Birthday dedacted for privacy reasons</string>
 	<string name="validation_check_popup_valid_vaccination_recovery_note">* Person has recovery or vaccination certificate.</string>
 	<string name="validation_check_popup_valid_vaccination_button_title">Scan another certificate</string>
 	<string name="validation_check_popup_unsuccessful_certificate_title">Certificate invalid</string>
@@ -68,7 +68,7 @@
 	<string name="validation_check_popup_unsuccessful_certificate_button_title">Scan another certificate</string>
 	<string name="validation_check_popup_test_title">Negative rapid test from %d hours ago</string>
 	<string name="validation_check_popup_test_message">Check the following data against an ID document from the person you are checking.</string>
-	<string name="validation_check_popup_test_date_of_birth">Born on %s</string>
+	<string name="validation_check_popup_test_date_of_birth">Birthday dedacted for privacy reasons</string>
 	<string name="validation_check_popup_test_date_of_issue">Time sample taken</string>
 	<string name="validation_check_popup_test_button_title">Scan another certificate</string>
 	<string name="validation_check_popup_valid_pcr_test_title">Negative PCR test from %d hours ago</string>
